@@ -1,5 +1,5 @@
 # NumPy-Pandas-Case-Study
-
+---
 ## Sales Data Insights
 
 ## 📌 Objective
@@ -34,6 +34,7 @@ Statistical summary using NumPy
 ---
 
 📁 File Structure
+
 sales_analysis.py: Main code
 
 datset - Sheet1.csv: Dataset
