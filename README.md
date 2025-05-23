@@ -16,6 +16,7 @@ Perform basic sales data analysis using NumPy and Pandas.
 
 ## ▶️ How to Run
 pip install pandas numpy
+
 python sales_analysis.py
 
 ---
