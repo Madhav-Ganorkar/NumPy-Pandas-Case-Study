@@ -10,10 +10,11 @@ Perform basic sales data analysis using NumPy and Pandas.
 - pandas
 - numpy
 
+
 ## ▶️ How to Run
-``bash
 pip install pandas numpy
 python sales_analysis.py
+
 
 📊 Features
 Clean and analyze sales data
@@ -25,6 +26,8 @@ Average sales per product
 Identify highest and lowest selling products
 
 Statistical summary using NumPy
+
+
 
 📁 File Structure
 sales_analysis.py: Main code
